@@ -1,0 +1,4 @@
+filter\AFilter.class
+filter\ValidationFilter.class
+filter\BFilter.class
+filter\RoleFilter.class

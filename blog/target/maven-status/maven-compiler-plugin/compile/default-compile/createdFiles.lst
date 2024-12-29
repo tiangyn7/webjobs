@@ -1,0 +1,8 @@
+dao\UserDAO.class
+utils\DBUtil.class
+servlet\PostServlet.class
+dao\PostDAO.class
+servlet\UserRegisterServlet.class
+model\User.class
+servlet\UserLoginServlet.class
+model\Post.class
